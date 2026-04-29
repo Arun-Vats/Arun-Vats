@@ -1,74 +1,85 @@
 <h1 align="center">Hi, I'm Arun Kumar 👋</h1>
 <p align="center">
-  🚀 Aspiring Data Analyst • 📊 Python | SQL | Excel | Power BI  
+  💻 Java | Python | SQL | Data Analytics  
   <br>
-  Currently based in Germany 🇩🇪 • ReDi Data Analytics 
+  Computer Science Graduate • Currently based in Munich, Germany 🇩🇪
 </p>
 
 ---
 
-## 🌟 About Me  
-- 🎓 B.Tech in Computer Science & Engineering (MM(DU) Haryana, India)  
-- 📍 Relocated to **Germany (Munich)** in July 2025  
-- 🎯 Transitioning into **Data Analytics**  
-- 🛠 Learning **Python, SQL, Data Cleaning, Visualization**  
-- 📘 Currently learning **Machine Learning**  
-- 💼 Open to **Internships • Entry-Level Roles**  
-- ⚡ I love building simple, clear, real-world data projects
+## 🌟 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering + Diploma in Computer Engineering
+- 📍 Currently based in **Munich, Germany**
+- 💼 Backend development experience in **Java** + applied **Data Analytics** training
+- 🛠 Working with **Python, SQL, Java, Data Visualization, and Machine Learning basics**
+- 📘 Continuously expanding skills in **software systems and data-driven applications**
+- ⚡ I enjoy building clean, well-documented, real-world projects
 
 ---
 
-## 💡 Tech Stack  
-### 🔹 Programming  
-- **Python** (Pandas, NumPy, Matplotlib)  
-- **SQL** (MySQL / PostgreSQL)  
-- **Jupyter Notebook**  
+## 💡 Tech Stack
 
-### 🔹 Analytics  
-- **Excel** (Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning)  
+### 🔹 Programming
+- **Java** (OOP, backend modules, design patterns)
+- **Python** (Pandas, NumPy, Matplotlib)
+- **SQL** (MySQL / PostgreSQL)
+
+### 🔹 Analytics & Visualization
+- **Excel** (Pivot Tables, XLOOKUP, Data Cleaning)
 - **Power BI** (DAX basics, dashboards)
+- **Jupyter Notebook**
 
-### 🔹 Tools  
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook
-- Power BI
+### 🔹 Tools
+- Git & GitHub
+- VS Code / IntelliJ IDEA
+- PostgreSQL
 - Microsoft Excel
 
 ---
 
-## 📂 Featured Projects  
-### 🔸 **1. Excel Sales Dashboard Project**  
-*Excel*  
-This project demonstrates end-to-end data analysis skills using Microsoft Excel, simulating a real-world e-commerce bookstore scenario. 
-The dashboard provides actionable business insights for management decision-making.
+## 📂 Featured Projects
+
+### 🔸 1. Data Processing & Analysis Pipeline
+*Python • PostgreSQL*
+
+End-to-end data pipeline handling 20,000+ records with structured query logic, data validation, and transformation layers.
+
+---
+
+### 🔸 2. Excel Sales Dashboard
+*Excel*
+
+End-to-end data analysis simulating a real-world e-commerce bookstore scenario. Provides actionable business insights through an interactive dashboard.
 
 👉 *[Repository Link](https://github.com/Arun-Vats/Excel-Sales-Dashboard-Project)*
 
 ---
 
-### 🔸 **2. ReDi Final Project**  
-*Excel • Python*  
-This project was created as part of my ReDI School Data Analytics course.
+### 🔸 3. E-Commerce Data Analysis — ReDI School Munich
+*Python • SQL*
+
+Data cleaning, transformation, and exploratory analysis of transactional datasets. Completed as part of the ReDI School Data Analytics programme, Munich.
 
 👉 *[Repository Link](https://github.com/Arun-Vats/redi-final-project)*
 
 ---
 
-## 🏆 Highlights  
-- Built multiple beginner-friendly real-world datasets  
-- Strong documentation and clean project structure  
-- Focus on **clarity, storytelling, and industry-aligned projects**  
-- Skilled at turning raw messy data into insights  
+## 🏆 Highlights
+
+- 6 months Java backend development internship
+- Completed Data Analytics programme — ReDI School of Digital Integration, Munich
+- Certified in SQL (HackerRank), PostgreSQL, Redis, Java Project Development, and GitHub
+- Clean code, strong documentation, focus on real-world problem solving
 
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/arunnvats">💼 LinkedIn</a> •  
-  <a href="mailto:asvats374@gmail.com">📧 Email</a>
+  <a href="mailto:asvats374@gmail.com">📧 asvats374@gmail.com</a>
 </p>
 
 ---
 
-### ⭐ If you like my projects, consider giving them a star!
+⭐ If you find my projects useful, consider giving them a star!
